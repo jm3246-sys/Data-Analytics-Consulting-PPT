@@ -34,6 +34,7 @@ It provides interactive insights into revenue trends, customer behavior, regiona
 
 
 
+
   ## 2. 📌 Project Title - Cost Optimization Strategies in Recruitment & Training  
 
 ![Project Type](https://img.shields.io/badge/Project-HR%20Consulting%20Case%20Study-blueviolet)
@@ -50,7 +51,7 @@ A detailed and business-focused analysis presenting cost-optimization strategies
 This project explores practical solutions such as streamlined recruitment workflows, automation, targeted hiring, internal talent mobility, structured onboarding, and digital learning adoption.
 
 
-  ## 📌 Project Summary
+  ## 📊 Summary of Insights
 
 This presentation provides a strategic guide for reducing HR operational expenses while maintaining high workforce quality. The project breaks down the key cost drivers, identifies inefficiencies, and delivers a structured roadmap to optimize recruitment and training using:
 Process automation
@@ -73,6 +74,7 @@ The analysis helps HR leaders and organizations create a sustainable, cost-effic
 ![Talent Management](https://img.shields.io/badge/Skill-Talent_Management_Strategy-pink)
 ![Business Optimization](https://img.shields.io/badge/Skill-Business_Process_Optimization-teal)
 ![Employee Onboarding](https://img.shields.io/badge/Skill-Employee_Onboarding_Design-brown)
+
 
 
 
@@ -134,6 +136,7 @@ Misalignment of customer expectations
 
 
 
+
 ## 4. 📌 Project Title - How Power BI Transforms HR Analytics
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -146,7 +149,7 @@ Misalignment of customer expectations
 The presentation shows how Power BI enhances decision-making in HR by enabling organizations to identify risks early, optimize recruitment strategies, improve workforce planning, and measure training ROI.
 
 
-## 📝 Summary
+## 📊 Summary of Insights
 
 This project explains the full value of HR analytics and showcases how Power BI empowers organizations to:
 
@@ -176,6 +179,7 @@ Overall, it demonstrates the strategic transformation from intuition-based decis
 
 
 
+
 ## 5. 📌 Project Title -  Lean Methodology: Process Improvement
 
 ![Lean](https://img.shields.io/badge/Skill-Lean%20Methodology-blue)
@@ -187,7 +191,7 @@ This project presents a practical demonstration of Lean methodology using a simp
 
 
 
-## ✅ 📌 Project Summary
+## 📊 Summary of Insights
 
 The goal of the project is to illustrate how Lean thinking can streamline operations, reduce time, eliminate redundancy, and drive continuous improvement in both personal workflows and business environments.
 This project highlights core Lean concepts through a clear process-mapping example. It breaks down each step of a workflow, identifies waste (waiting, motion, overproduction, etc.), and proposes actionable improvement strategies. The transformed (“after Lean”) workflow results in:
@@ -215,6 +219,7 @@ Using a relatable example (coffee preparation), the project makes Lean methodolo
 
 
 
+
 ## 6. 📌 Project Title -  Retention Strategies Every Manager Must Follow
 
 ![HR Analytics](https://img.shields.io/badge/HR%20Analytics-4B0082?style=for-the-badge&logo=hr&logoColor=white)
@@ -227,7 +232,7 @@ A comprehensive presentation exploring modern employee retention strategies ever
  
 
 
-## ✅ SUMMARY 
+## 📊 Summary of Insights
 
 The presentation is designed to support HR professionals, team leaders, and organizational strategists in understanding the drivers of employee motivation and developing a culture that attracts and retains top talent.This project outlines actionable retention strategies supported by HR best practices. It highlights the financial and cultural cost of losing talent and provides managers with a clear roadmap to improve engagement, reduce turnover, and build strong employee relationships.
 
@@ -270,7 +275,7 @@ Total Rewards (GE Aerospace) is a structured HR analytics and compensation strat
 
 
 
-## 📌 SUMMARY
+## 📊 Summary of Insights
 
 This project provides a comprehensive overview of GE Aerospace’s Total Rewards philosophy, focusing on compensation structure, benchmarking methods, pay range design, and internal equity metrics such as compa ratio. It highlights the four foundational pillars—Market Competitive, Performance Based, Compliant & Equitable, and Business Focused—while showcasing how organizations build fair, competitive, and strategic compensation systems aligned with business goals.
 
@@ -303,7 +308,7 @@ This project applies Lean Methodology and Process Improvement principles to opti
 Using tools like TIM WOOD waste analysis, 5S, Standard Work, and Kaizen, the workflow was redesigned to reduce the coffee-making time from 23 minutes to 10 minutes — a 56% reduction.
 
 
-## 📌 SUMMARY
+## 📊 Summary of Insights
 
 The analysis identifies waste, proposes process improvements, quantifies time savings, and delivers a 5-week Lean implementation roadmap.
 The final result: 79+ hours saved per year, improved consistency, lower mental load, and a smoother morning routine.
