@@ -1,4 +1,4 @@
-  ## 1.  📌 Project Description -Online Retail Performance Dashboard 
+  ## 1.  📌 Project Title - Online Retail Performance Dashboard 
 This project presents an **Online Retail Performance Dashboard for the year 2011** (excluding UK data).  
 It provides interactive insights into revenue trends, customer behavior, regional demand, and top-performing markets.
 
@@ -35,7 +35,7 @@ A professional dashboard that helps stakeholders:
 - Detect seasonal performance trends  
 - Guide data-driven retail decisions
 
-  ## 2. 📌 Project Description -Cost Optimization Strategies in Recruitment & Training  
+  ## 2. 📌 Project Title - Cost Optimization Strategies in Recruitment & Training  
 A detailed and business-focused analysis presenting cost-optimization strategies in recruitment and training, designed to help organizations improve hiring efficiency, reduce training costs, and maximize ROI.
 This project explores practical solutions such as streamlined recruitment workflows, automation, targeted hiring, internal talent mobility, structured onboarding, and digital learning adoption.
 
@@ -73,4 +73,59 @@ The analysis helps HR leaders and organizations create a sustainable, cost-effic
 ![Business Optimization](https://img.shields.io/badge/Skill-Business_Process_Optimization-teal)
 ![Employee Onboarding](https://img.shields.io/badge/Skill-Employee_Onboarding_Design-brown)
 
-  ## 3. 
+  ## 3. 📌 Project Title - Data Analysis Report for Fond Rouge – SAP Client Project
+
+  📝 Project Description
+
+This project presents a comprehensive analytical review of Fond Rouge’s sales, returns, and customer sentiment data, conducted as part of the SAP Analytics Cloud Technical Consulting Simulation.
+Using multi-source datasets, the analysis identifies high-risk markets, uncovers patterns of counterfeiting, and highlights significant revenue leakage issues, especially in the U.S. region.
+The project delivers geographical insights, root-cause investigation, and strategic recommendations to help the company reduce losses, strengthen product integrity, and improve customer satisfaction.
+
+
+![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-blue.svg)
+![EDA](https://img.shields.io/badge/Skill-Exploratory%20Data%20Analysis-orange.svg)
+![SAP Analytics Cloud](https://img.shields.io/badge/Tool-SAP%20Analytics%20Cloud-0faaff.svg)
+![Excel](https://img.shields.io/badge/Tool-Excel-217346.svg)
+![Power BI](https://img.shields.io/badge/Skill-Business%20Intelligence-yellow.svg)
+![Dashboarding](https://img.shields.io/badge/Skill-Dashboard%20Design-red.svg)
+![Data Storytelling](https://img.shields.io/badge/Skill-Data%20Storytelling-purple.svg)
+![Geospatial Analysis](https://img.shields.io/badge/Skill-Geospatial%20Analysis-9cf.svg)
+![Consulting](https://img.shields.io/badge/Domain-Consulting-2ea44f.svg)
+
+
+
+📊 Summary of Insights
+
+San Diego is the biggest risk market with a refund-to-revenue ratio of 54.43%, indicating major operational or product-related issues.
+
+Las Vegas & Los Angeles show counterfeit-like behavior — low returns but very low customer sentiment.
+
+US Market Sentiment is concerning — 23.89% negative sentiment, compared to only 4.25% globally.
+
+Issues identified are not global, but highly localized to specific US regions.
+
+Root causes may include:
+
+Product quality defects
+
+Counterfeit goods entering distribution
+
+Return policy exploitation
+
+Misalignment of customer expectations
+
+🧠 Key Skills 
+
+![Badge](https://img.shields.io/badge/Skill-SAP%20Analytics%20Cloud-blue)
+![Badge](https://img.shields.io/badge/Skill-Data%20Modeling-orange)
+![Badge](https://img.shields.io/badge/Skill-Data%20Visualization-brightgreen)
+![Badge](https://img.shields.io/badge/Skill-EDA-purple)
+![Badge](https://img.shields.io/badge/Skill-Root%20Cause%20Analysis-red)
+![Badge](https://img.shields.io/badge/Skill-Geospatial%20Analysis-teal)
+![Badge](https://img.shields.io/badge/Skill-Sentiment%20Analysis-yellow)
+![Badge](https://img.shields.io/badge/Skill-Revenue%20Analysis-darkblue)
+![Badge](https://img.shields.io/badge/Skill-Returns%20Analytics-lightgrey)
+![Badge](https://img.shields.io/badge/Skill-Business%20Insights-brown)
+![Badge](https://img.shields.io/badge/Skill-Cost%20Optimization-green)
+![Badge](https://img.shields.io/badge/Skill-Fraud%20Detection-critical)
+![Badge](https://img.shields.io/badge/Skill-Decision%20Making-black)
