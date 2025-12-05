@@ -323,3 +323,39 @@ The final result: 79+ hours saved per year, improved consistency, lower mental l
 ![Time Savings Analysis](https://img.shields.io/badge/Skill-Time%20Savings%20Analysis-lightgrey)
 ![Continuous Improvement](https://img.shields.io/badge/Skill-Continuous%20Improvement-brightgreen)
 ![Workflow Design](https://img.shields.io/badge/Skill-Workflow%20Design-red)
+
+
+
+
+## 9. 📌 Project Title - Employee Engagement Strategies to Enhance People Satisfaction
+
+![HR Strategy](https://img.shields.io/badge/HR%20Strategy-People%20Success-blueviolet?style=for-the-badge)
+![Employee Engagement](https://img.shields.io/badge/Employee%20Engagement-Workplace%20Excellence-FF7F50?style=for-the-badge)
+![Organizational Development](https://img.shields.io/badge/Organizational%20Development-Culture%20Growth-1E90FF?style=for-the-badge)
+![People Analytics](https://img.shields.io/badge/People%20Analytics-HR%20Insights-4CAF50?style=for-the-badge)
+![Leadership](https://img.shields.io/badge/Leadership-Managerial%20Excellence-FFD700?style=for-the-badge)
+
+
+This project presents a comprehensive framework of employee engagement strategies designed to enhance people satisfaction, motivation, retention, and performance.
+The presentation explores the core drivers of engagement including recognition, professional development, open communication, work-life balance, inclusivity, and workplace support systems.
+
+
+
+## 📊 Summary of Insights
+
+This PPT demonstrates how organisations can build a culture of trust, productivity, and belonging by empowering managers with actionable engagement tactics such as feedback loops, flexible work models, mentorship opportunities, and recognition programs. This project is ideal for HR teams, managers, and business leaders focused on improving employee morale, retention, and overall organisational health.
+
+
+
+## 🔧 Skills Demonstrated
+
+![HR Analytics](https://img.shields.io/badge/Skill-HR%20Analytics-4B0082?style=for-the-badge)
+![Employee Engagement](https://img.shields.io/badge/Skill-Employee%20Engagement-FF7F50?style=for-the-badge)
+![People Satisfaction](https://img.shields.io/badge/Skill-People%20Satisfaction-brightgreen?style=for-the-badge)
+![Leadership Communication](https://img.shields.io/badge/Skill-Leadership%20Communication-1E90FF?style=for-the-badge)
+![Organizational Culture](https://img.shields.io/badge/Skill-Organizational%20Culture-FFD700?style=for-the-badge)
+![Performance Management](https://img.shields.io/badge/Skill-Performance%20Management-8A2BE2?style=for-the-badge)
+![Workplace Flexibility](https://img.shields.io/badge/Skill-Workplace%20Flexibility-32CD32?style=for-the-badge)
+![Employee Recognition](https://img.shields.io/badge/Skill-Employee%20Recognition-orange?style=for-the-badge)
+![Feedback Culture](https://img.shields.io/badge/Skill-Feedback%20Culture-blue?style=for-the-badge)
+![Inclusion & Collaboration](https://img.shields.io/badge/Skill-Inclusion%20%26%20Collaboration-teal?style=for-the-badge)
