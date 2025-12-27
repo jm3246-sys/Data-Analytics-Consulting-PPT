@@ -1,4 +1,4 @@
-  ## 1.  📌 Project Title - Online Retail Performance Dashboard 
+  ## 1.  📌 Project Title - Online Retail Performance PPT 
   
 ![Power BI](https://img.shields.io/badge/Tool-PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Tool-Excel-217346?logo=microsoft-excel&logoColor=white)
@@ -35,7 +35,7 @@ It provides interactive insights into revenue trends, customer behavior, regiona
 
 
 
-  ## 2. 📌 Project Title - Cost Optimization Strategies in Recruitment & Training  
+  ## 2. 📌 Project Title - Cost Optimization Strategies in Recruitment & Training PPT
 
 ![Project Type](https://img.shields.io/badge/Project-HR%20Consulting%20Case%20Study-blueviolet)
 ![HR Analytics](https://img.shields.io/badge/Domain-HR%20Analytics-green)
@@ -78,7 +78,7 @@ The analysis helps HR leaders and organizations create a sustainable, cost-effic
 
 
 
-  ## 3. 📌 Project Title - Data Analysis Report for Fond Rouge – SAP Client Project
+  ## 3. 📌 Project Title - Data Analysis Report for Fond Rouge – SAP Client Project PPT
 
 ![Data Analysis](https://img.shields.io/badge/Skill-Data%20Analysis-blue.svg)
 ![EDA](https://img.shields.io/badge/Skill-Exploratory%20Data%20Analysis-orange.svg)
@@ -137,7 +137,7 @@ Misalignment of customer expectations
 
 
 
-## 4. 📌 Project Title - How Power BI Transforms HR Analytics
+## 4. 📌 Project Title - How Power BI Transforms HR Analytics PPT
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![HR Analytics](https://img.shields.io/badge/HR%20Analytics-People%20Insights-4CAF50?style=for-the-badge)
@@ -180,7 +180,7 @@ Overall, it demonstrates the strategic transformation from intuition-based decis
 
 
 
-## 5. 📌 Project Title -  Lean Methodology: Process Improvement
+## 5. 📌 Project Title -  Lean Methodology: Process Improvement PPT
 
 ![Lean](https://img.shields.io/badge/Skill-Lean%20Methodology-blue)
 ![Process Improvement](https://img.shields.io/badge/Skill-Process%20Improvement-green)
@@ -220,7 +220,7 @@ Using a relatable example (coffee preparation), the project makes Lean methodolo
 
 
 
-## 6. 📌 Project Title -  Retention Strategies Every Manager Must Follow
+## 6. 📌 Project Title -  Retention Strategies Every Manager Must Follow PPT
 
 ![HR Analytics](https://img.shields.io/badge/HR%20Analytics-4B0082?style=for-the-badge&logo=hr&logoColor=white)
 ![Employee Engagement](https://img.shields.io/badge/Employee%20Engagement-FF7F50?style=for-the-badge)
@@ -267,7 +267,7 @@ The overall goal is to help leaders build a culture of commitment, where employe
 
 
 
-## 7. 📌 Project Title -Total Rewards (GE Aerospace)
+## 7. 📌 Project Title -Total Rewards (GE Aerospace) PPT
 
 ![Total Rewards](https://img.shields.io/badge/Total%20Rewards-HR%20Compensation%20Strategy-blueviolet?style=for-the-badge)
 
@@ -292,7 +292,7 @@ This project provides a comprehensive overview of GE Aerospace’s Total Rewards
 
 
 
-## 8. 📌 Project Title - ☕ Transform Your Morning Coffee Routine Using Lean Methodology 
+## 8. 📌 Project Title - ☕ Transform Your Morning Coffee Routine Using Lean Methodology PPT
 
 
 ![Lean Process Improvement](https://img.shields.io/badge/Lean-Process%20Improvement-blue)
@@ -327,7 +327,7 @@ The final result: 79+ hours saved per year, improved consistency, lower mental l
 
 
 
-## 9. 📌 Project Title - Employee Engagement Strategies to Enhance People Satisfaction
+## 9. 📌 Project Title - Employee Engagement Strategies to Enhance People Satisfaction PPT
 
 ![HR Strategy](https://img.shields.io/badge/HR%20Strategy-People%20Success-blueviolet?style=for-the-badge)
 ![Employee Engagement](https://img.shields.io/badge/Employee%20Engagement-Workplace%20Excellence-FF7F50?style=for-the-badge)
